@@ -5,6 +5,6 @@ Datasets: GTSRB
 
 DNNs: ResNet or VGG
 
-Note: For Cifar10, we remove T and set the NP_k as P_k-2
+Note: For Cifar10, we set the NP_k as P_k-1.
 
 If you have questions, please contact YudongGao0504@163.com
